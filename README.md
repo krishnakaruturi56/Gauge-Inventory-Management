@@ -6,10 +6,17 @@ MTech employs an MS Excel based system to track and manage the inventory, calibr
 <h2> Solution:</h2>
 A more robust, automated solution is required to enhance real-time tracking, improve accuracy, streamline data retrieval, and enable proactive notifications to ensure timely calibrations and maintenance, ultimately fostering a higher level of operational excellence and compliance.
 
-<h3> Working Pronciple:</h3>
+<h2> Working Pronciple:</h2>
+  
 - <b>Centralized Database: A MySQL database was created to store and manage all critical data related to gauges, including inventory, condition, calibration status, and location.</b>
 - <b>Unique Barcode Generation: Each gauge is assigned a unique barcode, generated automatically to represent the corresponding data in the system.</b>
+- Test Code: 
 - <b>API Integration: The barcode is linked to the gauge’s data in the MySQL database through an Google Drive API, enabling seamless interaction between the physical gauge and digital records. </b> 
+
+
+
+
+
 
 <p align="center">
 <br/>
