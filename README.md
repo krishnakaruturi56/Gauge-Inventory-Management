@@ -1,1 +1,2 @@
-# Gauge-Inventory-Management
+# QR Code system for Gauge Inventory Management
+
